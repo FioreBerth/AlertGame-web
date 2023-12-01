@@ -1,0 +1,22 @@
+.end{
+    padding: 40px 0; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+}
+.end{
+    background-color: $violeta;
+}
+
+.end ul{
+    list-style: none; 
+    display: inline-flex;
+    justify-content: center;
+    align-items: center; 
+    li{ 
+        margin:20px;
+
+    }
+    }

@@ -1,0 +1,92 @@
+.fondo{
+    background-color: black;
+}
+
+.notis{
+    padding: 50px;
+    h2{
+        padding: 50px;
+        text-align: center;
+        font-family:'Bakbak One';
+        font-size: 80px;
+        color:$violeta;
+    }
+    h5{
+        text-align: center;
+        font-family:'Bakbak One';
+        font-size: 30px;
+        color:$white;
+    }
+    p{
+        text-align: center;
+        font-family:'Bakbak One';
+        font-size: 16px;
+        color: $white;
+    }
+    .cajas{
+        background-color: $pink;
+     }
+}
+
+.visit h3{
+    font-size: 80px;
+    font-family:'Bakbak One';
+    text-align: center;
+    color: $white;
+}
+     
+
+.show h5{
+    font-size: 40px;
+    font-family:'Bakbak One';
+    color: $violeta;
+}
+.show p{
+    font-size: 20px;
+    font-family:'Bakbak One';
+    color: $violeta;
+}
+
+.twitch{
+    display: flex;
+    justify-content: flex-end;
+    background-color: black;
+}
+.twitch img{
+    width: 100%;
+    height: 900px;
+    margin: 20px;
+    padding: 200px;
+    filter: drop-shadow(5px 5px 10px $violeta);
+
+}
+.twitch-text {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.twitch-text h4{
+    color: $white;
+    font-size: 40px;
+    font-family:'Bakbak One';
+
+}
+ .t-buttn{
+     background-color: $white;
+     border-radius: 20px;
+    display: flex;
+    justify-content: left;
+ }
+
+
+
+.t-buttn a{
+    padding: 16px 32px;
+    color: $violeta;
+    text-decoration: none;
+    font-size: 20px; 
+    text-align: center;
+ }
+*{box-sizing: border-box;}
+
+ 
